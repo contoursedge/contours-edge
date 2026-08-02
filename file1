@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contours Edge | Custom Packaging & Branding Solutions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- HERO -->
+<section class="hero">
+
+    <div class="hero-text">
+        <h1>Contours Edge</h1>
+        <h2>Custom Packaging<br>& Branding Solutions</h2>
+
+        <p>
+            Premium packaging and branded merchandise
+            for businesses, events and product launches.
+        </p>
+    </div>
+
+    <div class="hero-image">
+        <img src="images/hero.jpg" alt="Premium packaging">
+    </div>
+
+</section>
+
+
+<!-- PRODUCTS -->
+<section class="products">
+
+    <h2>Our Solutions</h2>
+
+    <div class="product-grid">
+
+        <div class="card">
+            <img src="images/folding-carton.jpg">
+            <h3>Folding Carton</h3>
+            <p>
+                Custom printed packaging designed
+                for retail products.
+            </p>
+        </div>
+
+
+        <div class="card">
+            <img src="images/product-label.jpg">
+            <h3>Product Labels</h3>
+            <p>
+                Premium labels that enhance
+                product presentation.
+            </p>
+        </div>
+
+
+        <div class="card">
+            <img src="images/magnetic-box.jpg">
+            <h3>Magnetic Rigid Box</h3>
+            <p>
+                Luxury packaging solutions
+                for premium products.
+            </p>
+        </div>
+
+
+        <div class="card">
+            <img src="images/corporate-gifts.jpg">
+            <h3>Corporate Gifts</h3>
+            <p>
+                Custom branded products
+                for events and businesses.
+            </p>
+        </div>
+
+
+        <div class="card">
+            <img src="images/bottle.jpg">
+            <h3>Custom Bottles</h3>
+            <p>
+                Functional merchandise
+                with your brand identity.
+            </p>
+        </div>
+
+
+        <div class="card">
+            <img src="images/charger.jpg">
+            <h3>Wireless Chargers</h3>
+            <p>
+                Premium corporate gifts
+                for everyday use.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- CONTACT -->
+<section class="contact">
+
+    <h2>Let's Create Something Memorable</h2>
+
+    <p>
+        Need custom packaging or branded products?
+        Speak with our team.
+    </p>
+
+
+    <div class="buttons">
+
+        <a href="#" class="button">
+            WhatsApp
+        </a>
+
+        <a href="#" class="button">
+            Email
+        </a>
+
+    </div>
+
+
+    <footer>
+        Contours Edge<br>
+        Singapore
+    </footer>
+
+</section>
+
+
+</body>
+</html>
